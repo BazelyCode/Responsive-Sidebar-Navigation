@@ -11,7 +11,7 @@ Easy Integration: Implementing this navigation into your project is simple and s
 Integrating the custom sidebar navigation into your website is easy. Simply include the necessary HTML and CSS code from this repository in your project. Customize the styles as needed to fit your project's theme and branding.
 
 #  Contact us
-For more information and to see other projects by BazelyCode, visit bazelycode.com.
+For more information and to see other projects by BazelyCode, visit https://www.bazelycode.com.
 
 
 
